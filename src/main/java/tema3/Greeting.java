@@ -1,4 +1,6 @@
-package tema2;
+//Tema Week 3 - Greetings
+
+package tema3;
 
 import java.util.Scanner;
 
